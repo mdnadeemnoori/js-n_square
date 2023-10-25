@@ -1,2 +1,2 @@
-# js-n_square
+# js-fresher
 learning javascript
